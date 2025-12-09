@@ -1,4 +1,5 @@
-;;; ob-strudel.el --- org-babel functions for strudel evaluation
+;;; ob-strudel.el --- org-babel functions for strudel evaluation  -*- lexical-binding: t; -*-
+
 
 (require 'ob)
 (require 'strudel)
